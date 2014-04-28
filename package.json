@@ -1,7 +1,7 @@
 {
   "name": "haml-coffee-browserify",
   "version": "0.0.1",
-  "description": "Browserify plugin to convert haml-coffee templates to Javascript.",
+  "description": "Browserify plugin to convert haml-coffee (.hamlc) templates to Javascript.",
   "author": {
     "name": "Scott Brady",
     "email": "scott@sbrady.com"

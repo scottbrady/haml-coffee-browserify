@@ -14,7 +14,7 @@ npm install haml-coffee-browserify
 $ browserify -t haml-coffee-browserify foo.hamlc > bundle.js
 ```
 
-# license
+# License
 
 MIT
 
