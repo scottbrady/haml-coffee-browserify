@@ -1,5 +1,9 @@
 # Haml Coffee Browserify Changelog
 
+## Version 0.0.4, November 5th, 2014
+
+* Updated Coffee Script dependency to 1.8.
+
 ## Version 0.0.3, April 29th, 2014
 
 * Make sure .coffee files are registered to be transpiled.
