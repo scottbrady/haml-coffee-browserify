@@ -6,6 +6,12 @@
     "name": "Scott Brady",
     "email": "scott@sbrady.com"
   },
+  "contributors": [
+    {
+      "name": "Stratos Pavlakis",
+      "email": "pavlakis.stratos@gmail.com"
+    }
+  ],
   "keywords": [
     "haml",
     "coffee",
